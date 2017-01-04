@@ -9,7 +9,7 @@ This repository is the source of `haddad1/docker-behat-htmlreport` which brings:
 
 ## Install
 
-    docker pull tvial/behat
+ docker pull haddad1/docker-behat-htmlreport
 
 ## Usage
 
