@@ -25,4 +25,4 @@ If you need adapt the project to your needs, clone, modify the `Dockerfile` and 
 
     docker build -t tvial/behat .
 
-Also available via [Docker Index](https://index.docker.io/u/tvial/behat/).
+Also available via [Docker Index](https://hub.docker.com/r/haddad1/docker-behat-htmlreport/).
