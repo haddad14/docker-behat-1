@@ -1,5 +1,5 @@
 default:
-    autoload: %paths.base%/features/bootstrap/
+    autoload: %paths.base%/bootstrap/
     extensions:
         Behat\MinkExtension:
             base_url: https://travis-ci.com/
